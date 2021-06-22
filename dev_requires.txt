@@ -1,0 +1,7 @@
+pylint>=2.8.3
+pytest>=6.2.4
+pytest-cov>=2.12.1
+bandit>=1.7.0
+jupyterlab>=3.0.16
+tox>=3.23.1
+versioneer>=0.19

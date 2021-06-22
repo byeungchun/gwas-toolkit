@@ -1,0 +1,4 @@
+pandas>=1.2.4
+scikit-learn>=0.24.2
+pydantic>=1.7.3
+python-dotenv>=0.15.0
